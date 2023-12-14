@@ -1,5 +1,5 @@
 // Learning rust by doing advent of code
-// https://adventofcode.com/2023/day/8
+// https://adventofcode.com/2023/day/9
 // Vahe Danielyan, 2023
 
 use std::{fs};
